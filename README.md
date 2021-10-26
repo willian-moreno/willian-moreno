@@ -14,7 +14,6 @@
   <img align="center" width="40" height="30" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" width="40" height="30" alt="HTML"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" width="40" height="30" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" width="40" height="30" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
   <img align="center" width="40" height="30" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" width="40" height="30" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
@@ -25,11 +24,7 @@
   <img align="center" width="40" height="30" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
   <img align="center" width="40" height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <img align="center" width="40" height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" width="40" height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-  <img align="center" width="40" height="30" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
   <img align="right" src="https://media.discordapp.net/attachments/781653700963205120/902373832910835753/ezgif.com-gif-maker.gif?width=200&height=200" />
 </div>
 <br>
@@ -46,5 +41,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
   </a>  
 </div>
-<br>
-![Snake animation](https://github.com/WMoren0/WMoren0/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/WMoren0/WMoren0/blob/output/github-contribution-grid-snake.svg) 
+  
+
