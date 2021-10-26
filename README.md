@@ -1,4 +1,5 @@
-# Olá, bem vindo(a)! Eu sou o Willian Moreno 🧑‍💻
+# <img width="50" height="50" align="left" src="https://user-images.githubusercontent.com/55203304/138799618-8020e643-55c5-4680-aa2e-718aecf8c0b5.gif"/> Olá!! Eu sou o Willian Moreno 
+
 
 <h2>Status</h2>
 <div style="display:inline-block">
@@ -10,6 +11,7 @@
   
 <h2>Tecnologias favoritas e mais utilizadas</h2>
 <div style="display:inline-block">
+  
   <img align="center" width="40" height="30" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="40" height="30" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" width="40" height="30" alt="HTML"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
