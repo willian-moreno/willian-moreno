@@ -1,10 +1,10 @@
 # <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/55203304/138799618-8020e643-55c5-4680-aa2e-718aecf8c0b5.gif"/> Olá!! Eu sou o Willian Moreno 
 <br>
 <h2>Status</h2>
-<div style="display:inline-block">
+<div align="center">
   <a href="https://github.com/WMoren0">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=WMoren0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMoren0&layout=compact&langs_count=5&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WMoren0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMoren0&layout=compact&langs_count=5&theme=github_dark"/>
 </div>
 <br>
   
