@@ -10,7 +10,7 @@
 
 <div style="display:inline-block">
   <div>
-    <img align="left" src="https://media.discordapp.net/attachments/781653700963205120/902373832910835753/ezgif.com-gif-maker.gif?width=220&height=220" />
+    <img align="left" src="https://media.discordapp.net/attachments/781653700963205120/902373832910835753/ezgif.com-gif-maker.gif?width=210&height=210" />
   </div>
   <div>
     <h2>Tecnologias favoritas e mais utilizadas</h2>
