@@ -1,7 +1,8 @@
 # Olá!! Eu sou o Willian Moreno 
 <div style="display:inline-block" align="center">
-  <img align="center" height="180em" src="https://media.discordapp.net/attachments/781653700963205120/902635123399327804/banner-welcome.gif"/> 
-  <img align="center" height="180em" src="https://user-images.githubusercontent.com/55203304/138799618-8020e643-55c5-4680-aa2e-718aecf8c0b5.gif"/> 
+  <img align="center" height="150em" src="https://user-images.githubusercontent.com/55203304/138946242-755e2b41-af7f-4b5a-a325-096fa0b5e581.gif"/> 
+  <img align="center" height="150em" src="https://user-images.githubusercontent.com/55203304/138799618-8020e643-55c5-4680-aa2e-718aecf8c0b5.gif"/> 
+  
 </div>
 <h2>Status</h2>
 <div align="center">
