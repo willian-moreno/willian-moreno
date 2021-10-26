@@ -1,4 +1,4 @@
-# Willian Moreno <img src="https://media.discordapp.net/attachments/781653700963205120/902661745133355028/8427.gif" width="30px"><img align="right" height="45px" src="https://user-images.githubusercontent.com/55203304/138946242-755e2b41-af7f-4b5a-a325-096fa0b5e581.gif"/>
+# Willian Moreno <img src="https://media.discordapp.net/attachments/781653700963205120/902661745133355028/8427.gif" width="30px"><img align="right" height="43px" src="https://user-images.githubusercontent.com/55203304/138946242-755e2b41-af7f-4b5a-a325-096fa0b5e581.gif"/>
 
 <div align="right"> 
   <img align="center" src="https://gpvc.arturio.dev/WMoren0" alt="Profile views" align='right'/>
