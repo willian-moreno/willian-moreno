@@ -17,6 +17,7 @@
   <div style="display:inline-block">
     <img align="center" width="50" height="40" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />&nbsp
     <img align="center" width="50" height="40" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />&nbsp
+    <img align="center" width="50" height="40" alt="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />&nbsp
     <img align="center" width="50" height="40" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp
     <img align="center" width="50" height="40" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp
     <img align="center" width="50" height="40" alt="HTML"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp
