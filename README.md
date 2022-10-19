@@ -11,7 +11,7 @@ Hi 👋, I'am Willian Moreno <img src="https://media.discordapp.net/attachments/
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=willian-moreno&margin-w=10&margin-h=10&theme=onedark" alt="willian-moreno"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=willian-moreno&margin-w=10&margin-h=10&theme=onedark&column=-1" alt="willian-moreno"/>
   </a>
 </p>
 
