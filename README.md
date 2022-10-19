@@ -17,8 +17,8 @@ Hi 👋, I'am Willian Moreno <img src="https://media.discordapp.net/attachments/
 
 <div align="center">
   <a href="https://github.com/willian-moreno">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=willian-moreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-moreno&layout=compact&langs_count=10&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willian-moreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-moreno&layout=compact&langs_count=10&theme=github_dark"/>
   <br>
 </div>
   
