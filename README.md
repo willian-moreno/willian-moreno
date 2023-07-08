@@ -100,6 +100,8 @@ Hi 👋, I'm Willian Moreno
   </div>
 </div>
 
+<br/><br/>
+
 <div>
   <img 
     align="center" 
