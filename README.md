@@ -1,5 +1,5 @@
 <h1> 
-Hi 👋, I'm Willian Moreno 
+Hi 👊🏾, I'm Willian Moreno 
   <img 
     src="https://media.discordapp.net/attachments/781653700963205120/902661745133355028/8427.gif" 
     width="30px">
