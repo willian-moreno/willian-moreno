@@ -85,7 +85,7 @@ Hi 👊🏾, I'm Willian Moreno
         src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" 
         target="_blank"/>
     </a>
-    <a href="https://t.me/WillianMoreno">
+    <a href="https://t.me/willian_moreno">
       <img 
         alt="Telegram" 
         src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" 
