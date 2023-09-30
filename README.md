@@ -102,6 +102,14 @@ Hi 👊🏾, I'm Willian Moreno
 
 <br/><br/>
 
+<div align="center">
+  <a href="https://app.daily.dev/willian_moreno">
+    <img src="https://api.daily.dev/devcards/279471591a8a4be89739081ee23815b4.png?r=85h" width="400" alt="Willian Moreno's Dev Card"/>
+  </a>
+</div>
+
+<br/><br/>
+
 <div>
   <img 
     align="center" 
