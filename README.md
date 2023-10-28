@@ -6,7 +6,7 @@ Hi 👊🏾, I'm Willian Moreno
   <img 
     align="right" 
     height="43px" 
-    src="https://user-images.githubusercontent.com/55203304/138946242-755e2b41-af7f-4b5a-a325-096fa0b5e581.gif"/>
+    src="https://drive.google.com/file/d/1Bjbe4n9FKoJckZJ0vbUHahhwccRRU5CD/view?usp=drive_link"/>
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer from Brazil</h3>
