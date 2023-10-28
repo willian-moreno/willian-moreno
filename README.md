@@ -6,11 +6,12 @@ Hi 👊🏾, I'm Willian Moreno
     width="30px">
 </h1>
 
-<img 
-    align="right" 
-    height="43px" 
-    alt="Welcome"
-    src="https://media.discordapp.net/attachments/781653700963205120/902635123399327804/banner-welcome.gif?ex=654a8b77&is=65381677&hm=e3900c75422771a7df6d8a576e6edcba6425da67e6a1acf11bc12f59587dba1d&="/>
+<div align="right"> 
+  <img 
+      height="43px" 
+      alt="Welcome"
+      src="https://media.discordapp.net/attachments/781653700963205120/902635123399327804/banner-welcome.gif?ex=654a8b77&is=65381677&hm=e3900c75422771a7df6d8a576e6edcba6425da67e6a1acf11bc12f59587dba1d&="/>
+</div>
 
 <h3 align="center">A passionate Full Stack Developer from Brazil</h3>
 
