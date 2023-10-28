@@ -16,6 +16,7 @@
   <ul>
     <li>👨🏾‍💻 I'm web developer since 2019</li>
     <li>🧑🏾‍🎓 Graduated in Computer Engineering</li>
+    <li>💻 Software Engineering in progress</li>
     <li>📚 Student on several teaching platforms such as Rocketseat, Danki Code, Alura, Origamid, Udemy, among others</li>
     <li>🚀 Preparing myself for new graduations and specializations, challenges, always evolving</li>
     <li>📈 Experienced in web application development, as a full stack developer, systems analyst</li>
