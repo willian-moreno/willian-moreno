@@ -6,7 +6,7 @@ Hi 👊🏾, I'm Willian Moreno
   <img 
     align="right" 
     height="43px" 
-    src="https://drive.google.com/file/d/1Bjbe4n9FKoJckZJ0vbUHahhwccRRU5CD/view?usp=drive_link"/>
+    src="https://cdn.discordapp.com/attachments/781653700963205120/902635123399327804/banner-welcome.gif?ex=654a8b77&is=65381677&hm=e3900c75422771a7df6d8a576e6edcba6425da67e6a1acf11bc12f59587dba1d&"/>
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer from Brazil</h3>
