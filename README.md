@@ -1,6 +1,6 @@
 # Willian Moreno
 
-Full Stack Developer & Computer Engineering
+Full Stack Developer, Computer Engineer & future Software Engineer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/willian-moreno/)](https://www.linkedin.com/in/willian-moreno/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square&link=https://discordapp.com/users/628660556877791233)](https://discordapp.com/users/628660556877791233)
