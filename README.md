@@ -13,8 +13,8 @@ Full Stack Developer, Computer Engineer & future Software Engineer
 ### About me
 
 👨🏾‍💻 I'm a web developer since 2019 <br>
-🧑🏾‍🎓 Graduated in Computer Engineering <br>
-📚 MBA in Software Engineering in progress at MBA USP/ESALQ <br>
+🎓 Graduated in Computer Engineering <br>
+🎓 MBA in Software Engineering at MBA USP/ESALQ <br>
 🌐 Student on several teaching platforms such as Rocketseat, Danki Code, Alura, Origamid, Udemy, among others <br>
 🚀 Preparing myself for new graduations and specializations, challenges, always evolving <br>
 📈 Experienced in web application development, as a full stack developer, systems analyst <br>
